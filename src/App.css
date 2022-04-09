@@ -10,27 +10,35 @@
 }
 
 .container-card {
-    background-color: #063A5B;
+    background-color: #8E44AD;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     border-radius: 15px;
-    width: 600px;
-    box-shadow: #063A5B 0px 22px 70px 4px;
+    width: 750px;
+    box-shadow: #8E44AD 0px 22px 70px 4px;
 }
 
 .card {
     margin: 20px;
 }
 .text-title {
-    color:#F9F9F9
+    color:#F9F9F9;
+    margin:10px;
 }
 .flex-div {
     margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .input-text {
-    width: 400px;
+    width: 470px;
+    height: 40px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 2px solid #F1C40F;
+    border-radius: 4px;
+    box-sizing: border-box;
 }
