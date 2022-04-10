@@ -33,11 +33,14 @@
     justify-content: space-between;
     align-items: center;
 }
-.input-text {
-    width: 470px;
+#setText {
+    width: 480px;
     height: 40px;
     padding: 12px 20px;
     margin: 8px 0;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 25px;
     border: 2px solid #F1C40F;
     border-radius: 4px;
     box-sizing: border-box;
